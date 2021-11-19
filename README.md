@@ -1,4 +1,4 @@
-# Beakjoon
+# Baekjoon
 
 11월 22일 시작
 
