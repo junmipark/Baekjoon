@@ -19,6 +19,6 @@ public class Question_7 {
 		
 		System.out.println(a*b);
 		
-		//5번 6번 문제와 동일
+		//5번 6번 문제와 동일.
 	}
 }

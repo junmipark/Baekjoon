@@ -17,7 +17,7 @@ public class Question_4 {
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
 		
-		//사실 3번 문제를 풀고 난 후 똑같은 방식의 문제라 어렵지 않게 풀었다.
+		//사실 3번 문제를 풀고 난 후 똑같은 방식의 문제라 어렵지 않게 풀었다!
 	}
 
 }

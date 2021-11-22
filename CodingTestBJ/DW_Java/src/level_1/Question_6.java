@@ -17,7 +17,7 @@ public class Question_6 {
 		
 		System.out.println(a-b);
 		
-		//5번 문제와 동일한 사칙연산 출력문제
+		//5번 문제와 동일한 사칙연산 출력문제.
 	}
 
 }

@@ -27,7 +27,7 @@ public class Question_9 {
         System.out.println(a/b);
         System.out.println(a%b);
         
-        //사칙연산 문제 5.6.7.8번의 문제를 각 라인별로 출력해주는 문제였다. 풀이할 게 없다.
+        //사칙연산 문제 5.6.7.8번의 문제를 각 라인별로 출력해주는 문제였다. 풀이할 게 없다..
 	}
 
 }
