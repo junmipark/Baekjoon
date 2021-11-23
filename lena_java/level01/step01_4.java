@@ -1,4 +1,4 @@
-package Day01;
+package level01;
 
 //10172번 개
 

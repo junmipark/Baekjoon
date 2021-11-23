@@ -1,4 +1,4 @@
-package Day01;
+package level01;
 
 public class step01_2 {
     public static void main(String[] args) {

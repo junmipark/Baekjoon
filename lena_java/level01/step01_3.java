@@ -1,4 +1,4 @@
-package Day01;
+package level01;
 
 public class step01_3 {
     //10171번 고양이
