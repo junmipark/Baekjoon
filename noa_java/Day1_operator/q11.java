@@ -1,4 +1,4 @@
-package Day1;
+package Day1_operator;
 
 import java.util.Scanner;
 

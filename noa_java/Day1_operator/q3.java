@@ -1,4 +1,4 @@
-package Day1;
+package Day1_operator;
 
 public class q3 {
     public static void main(String[] args){
